@@ -1,3 +1,4 @@
+import './style.css';
 const time = new Date();
 const realSeconds = time.getSeconds();
 const realMinutes = time.getMinutes();
